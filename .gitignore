@@ -1,0 +1,25 @@
+# Database files
+*.mv.db
+*.trace.db
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Node
+node_modules/
+
+# React build
+build/
+
+# Django
+db.sqlite3
+
+# IDE
+.vscode/
+.idea/
